@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailderify",
+        "uuid": 28126070,
+        "checksum": "oxdrpo"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
